@@ -47,4 +47,4 @@ EOL
 echo "Created $filename"
 
 # Run the test
-npx playwright test --headed
+npx playwright test
