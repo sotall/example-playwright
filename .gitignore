@@ -19,3 +19,6 @@ package-lock.json
 
 # Ignore Playwright demo folder
 demo/
+
+# Ignore Playwright misc
+test-results/
