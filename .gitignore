@@ -22,3 +22,4 @@ demo/
 
 # Ignore Playwright misc
 test-results/
+playwright-report/
